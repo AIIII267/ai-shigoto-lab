@@ -15,7 +15,7 @@ description: AIしごと術ラボの運営者情報
 ## 運営者
 
 - 運営者：フラリン
-- お問い合わせ：（お問い合わせフォームまたは連絡用メールアドレスを記載）
+- お問い合わせ：[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfrTz8lqcbMNfZsFD6MFqkozVqTxMnso_ge2NUBovPUwkmEXQ/viewform)
 
 ## 記事制作について
 

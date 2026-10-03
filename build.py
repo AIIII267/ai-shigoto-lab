@@ -129,7 +129,7 @@ def layout(title, description, body, path):
 </head>
 <body>
 <header class="site-header"><a class="brand" href="{'../' * path.count('/')}index.html">{html.escape(site)}</a>
-<nav><a href="{'../' * path.count('/')}about.html">運営者情報</a><a href="{'../' * path.count('/')}disclosure.html">広告について</a><a href="{'../' * path.count('/')}privacy.html">プライバシー</a></nav></header>
+<nav><a href="{'../' * path.count('/')}about.html">運営者情報</a><a href="{'../' * path.count('/')}disclosure.html">広告について</a><a href="{'../' * path.count('/')}privacy.html">プライバシー</a><a href="{html.escape(CONFIG['contact_url'])}" target="_blank" rel="noopener">お問い合わせ</a></nav></header>
 <main>{body}</main>
 <footer>© {date.today().year} {html.escape(site)}　|　当サイトはアフィリエイトプログラムに参加しています。</footer>
 </body>
