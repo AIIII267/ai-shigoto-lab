@@ -1,0 +1,9 @@
+{
+  "_説明": "ASPで提携承認されたら url に広告リンクを貼る。空のままならリンクなしのテキストとして出力される。",
+  "ai-school-1": { "asp": "A8.net", "note": "生成AIスクール案件（無料カウンセリング型が成果になりやすい）", "url": "" },
+  "ai-school-2": { "asp": "A8.net", "note": "生成AIスクール案件 2件目（比較用）", "url": "" },
+  "ai-book-chatgpt": { "asp": "もしもアフィリエイト(Amazon/楽天)", "note": "ChatGPT/生成AIの入門書", "url": "" },
+  "ai-book-prompt": { "asp": "もしもアフィリエイト(Amazon/楽天)", "note": "プロンプト本", "url": "" },
+  "ai-slide-tool": { "asp": "A8.net", "note": "AIプレゼン/資料作成ツール", "url": "" },
+  "ai-writing-tool": { "asp": "A8.net", "note": "AIライティングツール", "url": "" }
+}
